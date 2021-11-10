@@ -1,4 +1,5 @@
-# guiaclientes
+# GuiaClientes
+Curso que aborda os conceitos principais do framework VueJS
 
 ## Project setup
 ```
